@@ -28,6 +28,7 @@
 		C30F935418411F5900AAE704 /* oracle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C30F935318411F5900AAE704 /* oracle.jpg */; };
 		C30F93561841205500AAE704 /* can-stock-photo_csp10380718.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C30F93551841205500AAE704 /* can-stock-photo_csp10380718.jpg */; };
 		C30F93581841220C00AAE704 /* QuestionStoryboard .storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30F93571841220C00AAE704 /* QuestionStoryboard .storyboard */; };
+		C30F935A184124B300AAE704 /* QuestionStoryboard.xib in Resources */ = {isa = PBXBuildFile; fileRef = C30F9359184124B300AAE704 /* QuestionStoryboard.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		C30F935318411F5900AAE704 /* oracle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oracle.jpg; sourceTree = "<group>"; };
 		C30F93551841205500AAE704 /* can-stock-photo_csp10380718.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "can-stock-photo_csp10380718.jpg"; sourceTree = "<group>"; };
 		C30F93571841220C00AAE704 /* QuestionStoryboard .storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "QuestionStoryboard .storyboard"; sourceTree = "<group>"; };
+		C30F9359184124B300AAE704 /* QuestionStoryboard.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = QuestionStoryboard.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				C30F9322184117C100AAE704 /* AppDelegate.h */,
 				C30F9323184117C100AAE704 /* AppDelegate.m */,
 				C30F932B184117C100AAE704 /* MainStoryboard_iPhone.storyboard */,
+				C30F9359184124B300AAE704 /* QuestionStoryboard.xib */,
 				C30F93571841220C00AAE704 /* QuestionStoryboard .storyboard */,
 				C30F932E184117C100AAE704 /* MainStoryboard_iPad.storyboard */,
 				C30F9331184117C100AAE704 /* ViewController.h */,
@@ -256,6 +259,7 @@
 				C30F935418411F5900AAE704 /* oracle.jpg in Resources */,
 				C30F93561841205500AAE704 /* can-stock-photo_csp10380718.jpg in Resources */,
 				C30F93581841220C00AAE704 /* QuestionStoryboard .storyboard in Resources */,
+				C30F935A184124B300AAE704 /* QuestionStoryboard.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
