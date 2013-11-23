@@ -16,7 +16,7 @@
 		C30F9326184117C100AAE704 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = C30F9325184117C100AAE704 /* Default.png */; };
 		C30F9328184117C100AAE704 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C30F9327184117C100AAE704 /* Default@2x.png */; };
 		C30F932A184117C100AAE704 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C30F9329184117C100AAE704 /* Default-568h@2x.png */; };
-		C30F932D184117C100AAE704 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30F932B184117C100AAE704 /* MainStoryboard_iPhone.storyboard */; };
+		C30F932D184117C100AAE704 /* QuestionStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30F932B184117C100AAE704 /* QuestionStoryboard_iPhone.storyboard */; };
 		C30F9330184117C100AAE704 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30F932E184117C100AAE704 /* MainStoryboard_iPad.storyboard */; };
 		C30F9333184117C100AAE704 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C30F9332184117C100AAE704 /* ViewController.m */; };
 		C30F933B184117C200AAE704 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C30F933A184117C200AAE704 /* SenTestingKit.framework */; };
@@ -27,7 +27,7 @@
 		C30F935218411E7E00AAE704 /* stock-illustration-20907434-colourful-science-background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C30F935118411E7E00AAE704 /* stock-illustration-20907434-colourful-science-background.jpg */; };
 		C30F935418411F5900AAE704 /* oracle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C30F935318411F5900AAE704 /* oracle.jpg */; };
 		C30F93561841205500AAE704 /* can-stock-photo_csp10380718.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C30F93551841205500AAE704 /* can-stock-photo_csp10380718.jpg */; };
-		C30F93581841220C00AAE704 /* QuestionStoryboard .storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30F93571841220C00AAE704 /* QuestionStoryboard .storyboard */; };
+		C30F93581841220C00AAE704 /* HomeStoryboard .storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C30F93571841220C00AAE704 /* HomeStoryboard .storyboard */; };
 		C30F935C1841288800AAE704 /* piechart.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C30F935B1841288800AAE704 /* piechart.jpg */; };
 		C30F935F1841291F00AAE704 /* Quiz.m in Sources */ = {isa = PBXBuildFile; fileRef = C30F935E1841291F00AAE704 /* Quiz.m */; };
 		C30F93611841321900AAE704 /* Answers.plist in Resources */ = {isa = PBXBuildFile; fileRef = C30F93601841321900AAE704 /* Answers.plist */; };
@@ -57,7 +57,7 @@
 		C30F9325184117C100AAE704 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		C30F9327184117C100AAE704 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		C30F9329184117C100AAE704 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
-		C30F932C184117C100AAE704 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
+		C30F932C184117C100AAE704 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/QuestionStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		C30F932F184117C100AAE704 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		C30F9331184117C100AAE704 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		C30F9332184117C100AAE704 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		C30F935118411E7E00AAE704 /* stock-illustration-20907434-colourful-science-background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "stock-illustration-20907434-colourful-science-background.jpg"; sourceTree = "<group>"; };
 		C30F935318411F5900AAE704 /* oracle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oracle.jpg; sourceTree = "<group>"; };
 		C30F93551841205500AAE704 /* can-stock-photo_csp10380718.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "can-stock-photo_csp10380718.jpg"; sourceTree = "<group>"; };
-		C30F93571841220C00AAE704 /* QuestionStoryboard .storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "QuestionStoryboard .storyboard"; sourceTree = "<group>"; };
+		C30F93571841220C00AAE704 /* HomeStoryboard .storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "HomeStoryboard .storyboard"; sourceTree = "<group>"; };
 		C30F935B1841288800AAE704 /* piechart.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = piechart.jpg; sourceTree = "<group>"; };
 		C30F935D1841291F00AAE704 /* Quiz.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Quiz.h; sourceTree = "<group>"; };
 		C30F935E1841291F00AAE704 /* Quiz.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Quiz.m; sourceTree = "<group>"; };
@@ -136,8 +136,8 @@
 			children = (
 				C30F9322184117C100AAE704 /* AppDelegate.h */,
 				C30F9323184117C100AAE704 /* AppDelegate.m */,
-				C30F932B184117C100AAE704 /* MainStoryboard_iPhone.storyboard */,
-				C30F93571841220C00AAE704 /* QuestionStoryboard .storyboard */,
+				C30F932B184117C100AAE704 /* QuestionStoryboard_iPhone.storyboard */,
+				C30F93571841220C00AAE704 /* HomeStoryboard .storyboard */,
 				C30F932E184117C100AAE704 /* MainStoryboard_iPad.storyboard */,
 				C30F935D1841291F00AAE704 /* Quiz.h */,
 				C30F935E1841291F00AAE704 /* Quiz.m */,
@@ -261,12 +261,12 @@
 				C30F9326184117C100AAE704 /* Default.png in Resources */,
 				C30F9328184117C100AAE704 /* Default@2x.png in Resources */,
 				C30F932A184117C100AAE704 /* Default-568h@2x.png in Resources */,
-				C30F932D184117C100AAE704 /* MainStoryboard_iPhone.storyboard in Resources */,
+				C30F932D184117C100AAE704 /* QuestionStoryboard_iPhone.storyboard in Resources */,
 				C30F9330184117C100AAE704 /* MainStoryboard_iPad.storyboard in Resources */,
 				C30F935218411E7E00AAE704 /* stock-illustration-20907434-colourful-science-background.jpg in Resources */,
 				C30F935418411F5900AAE704 /* oracle.jpg in Resources */,
 				C30F93561841205500AAE704 /* can-stock-photo_csp10380718.jpg in Resources */,
-				C30F93581841220C00AAE704 /* QuestionStoryboard .storyboard in Resources */,
+				C30F93581841220C00AAE704 /* HomeStoryboard .storyboard in Resources */,
 				C30F935C1841288800AAE704 /* piechart.jpg in Resources */,
 				C30F93611841321900AAE704 /* Answers.plist in Resources */,
 			);
@@ -337,12 +337,12 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		C30F932B184117C100AAE704 /* MainStoryboard_iPhone.storyboard */ = {
+		C30F932B184117C100AAE704 /* QuestionStoryboard_iPhone.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				C30F932C184117C100AAE704 /* en */,
 			);
-			name = MainStoryboard_iPhone.storyboard;
+			name = QuestionStoryboard_iPhone.storyboard;
 			sourceTree = "<group>";
 		};
 		C30F932E184117C100AAE704 /* MainStoryboard_iPad.storyboard */ = {
@@ -497,6 +497,7 @@
 				C30F934D184117C200AAE704 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C30F934E184117C200AAE704 /* Build configuration list for PBXNativeTarget "LearnQuizTests" */ = {
 			isa = XCConfigurationList;
@@ -505,6 +506,7 @@
 				C30F9350184117C200AAE704 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
